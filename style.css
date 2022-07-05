@@ -105,3 +105,12 @@ p{
 .six{
     padding-left:15%;
 }
+.footer{
+    background-color: black;
+    text-align: center;
+    width:100%;
+    height: 200px;
+}
+.footer p{
+    color:white;
+}
