@@ -35,7 +35,7 @@ p{
 }
 .second-section{
     background-image: url(frame.jpg);
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 5%;
     
 }
@@ -44,4 +44,64 @@ p{
 }
 .manusher-photo-change{
     margin-top: 10%;
+}
+.under{
+    text-align:center;
+    margin-left:30%;
+    margin-right: 30%;
+    background-image: linear-gradient(violet,white);
+}
+.third-section img{
+    width:60%;
+    margin-left:20%;
+    border-radius: 20px;
+}
+.third-section-two img{
+    width:60%;
+    margin-left:20%;
+    border-radius: 20px;
+}
+.third-section-two h2{
+    margin-left:20%;
+    color:navy;
+}
+.third-section-two p{
+    margin-left:20%;
+}
+.third-section h2{
+   margin-left: 20%;
+   color:navy;
+}
+.third-section p{
+    margin-left:20%;
+}
+.third-section{
+    border:5px solid white;
+    margin:20px;
+    border-radius:15px ;
+    padding:20px;
+    box-shadow: 10px 20px 30px;
+}
+.third-section-two{
+    border:5px solid white;
+    margin:20px;
+    padding:20px;
+    border-radius:15px ;
+    box-shadow: 10px 20px 30px;
+}
+.section-four{
+    border:1px solid rgb(185, 140, 140);
+    margin:10%;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(102, 36, 36), rgb(44, 204, 183));;
+    box-shadow: 10px 20px 30px;
+}
+.four{
+    padding-left:15%;
+}
+.five{
+    padding-left:15%;
+}
+.six{
+    padding-left:15%;
 }
